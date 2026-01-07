@@ -11,7 +11,7 @@
     },
 
     "VEST-0002-BBBB": {
-      "active": false,
+      "active": true,
       "ownerType": "USER",
       "ownerId": 10844247,
       "discord": "<@799148974866169876>",
