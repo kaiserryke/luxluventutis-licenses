@@ -1,7 +1,7 @@
 {
   "system": "Vestment System",
   "licenses": {
-    "VEST-001-AAA": {
+    "VEST-0001-AAAA": {
       "active": true,
       "ownerType": "USER",
       "ownerId": 368115639,
@@ -10,7 +10,7 @@
       "note": "Owner"
     },
 
-    "VEST-002-BBB": {
+    "VEST-0002-BBBB": {
       "active": false,
       "ownerType": "USER",
       "ownerId": 10844247,
