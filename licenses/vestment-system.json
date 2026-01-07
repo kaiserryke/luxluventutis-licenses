@@ -1,0 +1,22 @@
+{
+  "system": "Vestment System",
+  "licenses": {
+    "VEST-001-AAA": {
+      "active": true,
+      "ownerType": "USER",
+      "ownerId": 368115639,
+      "discord": "<@428071431621050369>",
+      "issuedAt": "2026-01-07",
+      "note": "Main buyer"
+    },
+
+    "VEST-002-BBB": {
+      "active": false,
+      "ownerType": "USER",
+      "ownerId": 10844247,
+      "discord": "<@799148974866169876>",
+      "issuedAt": "2025-11-02",
+      "note": "Revoked / refunded"
+    }
+  }
+}
