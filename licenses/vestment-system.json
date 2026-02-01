@@ -9,7 +9,6 @@
       "issuedAt": "2026-01-07",
       "note": "Owner"
     },
-
     "VEST-0002-BBBB": {
       "active": false,
       "ownerType": "USER",
@@ -17,6 +16,14 @@
       "discord": "<@799148974866169876>",
       "issuedAt": "2025-11-02",
       "note": "Revoked / refunded"
+    },
+    "VEST-3512-RESR": {
+      "active": true,
+      "ownerType": "USER",
+      "ownerId": 0,
+      "discord": "<@0000>",
+      "issuedAt": "2026-02-01",
+      "note": "RFC LICENSE TEST"
     }
   }
 }
