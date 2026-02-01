@@ -20,8 +20,8 @@
     "VEST-3512-RESR": {
       "active": true,
       "ownerType": "USER",
-      "ownerId": 0,
-      "discord": "<@0000>",
+      "ownerId": 1594067395,
+      "discord": "<@597232095022022657>",
       "issuedAt": "2026-02-01",
       "note": "RFC LICENSE TEST"
     }
