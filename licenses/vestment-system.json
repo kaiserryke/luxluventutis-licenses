@@ -9,7 +9,6 @@
       "issuedAt": "2026-01-07",
       "note": "Owner"
     },
-
     "VEST-0002-BBBB": {
       "active": false,
       "ownerType": "USER",
@@ -18,7 +17,6 @@
       "issuedAt": "2025-11-02",
       "note": "Revoked / refunded"
     },
-
     "VEST-8347-QXLM": {
       "active": false,
       "ownerType": "USER",
@@ -26,6 +24,15 @@
       "discord": "<@1116701958196178965>",
       "issuedAt": "2026-04-19",
       "note": "first purchase"
+    },
+    
+    "VEST-3512-RESR": {
+      "active": true,
+      "ownerType": "USER",
+      "ownerId": 1594067395,
+      "discord": "<@597232095022022657>",
+      "issuedAt": "2026-02-01",
+      "note": "RFC LICENSE TEST"
     }
   }
 }
