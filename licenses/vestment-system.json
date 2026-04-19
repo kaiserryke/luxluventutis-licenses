@@ -17,6 +17,15 @@
       "discord": "<@799148974866169876>",
       "issuedAt": "2025-11-02",
       "note": "Revoked / refunded"
+    },
+
+    "VEST-8347-QXLM": {
+      "active": false,
+      "ownerType": "USER",
+      "ownerId": 3040364456,
+      "discord": "<@1116701958196178965>",
+      "issuedAt": "2026-04-19",
+      "note": "first purchase"
     }
   }
 }
